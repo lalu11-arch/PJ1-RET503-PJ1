@@ -1,0 +1,10 @@
+eksperimen,split,kelas,jumlah_kotak,AP50,AP50-95
+E1_pretrained,val,bottle,98,0.3281,0.1378
+E1_pretrained,val,banana,27,0.3943,0.2286
+E1_pretrained,val,toothbrush,3,0.266,0.1356
+E3_tuning,val,bottle,98,0.477,0.2806
+E3_tuning,val,banana,27,0.4897,0.3092
+E3_tuning,val,toothbrush,3,0.1663,0.066
+E3_tuning,test,bottle,39,0.734,0.5326
+E3_tuning,test,banana,19,0.7392,0.4626
+E3_tuning,test,toothbrush,1,0.995,0.8955

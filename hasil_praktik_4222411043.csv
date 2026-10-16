@@ -1,0 +1,4 @@
+eksperimen,perubahan,pretrained,mAP50,mAP50-95,precision,recall,inferensi_ms,waktu_latih_menit,imgsz,bobot
+E1_pretrained,-,True,0.3295,0.1673,0.2384,0.4395,7.37,1.77,416,/content/praktik_coco/hasil_praktik/E1_pretrained/weights/best.pt
+E2_scratch,-,False,0.0002,0.0,0.0007,0.0779,4.33,1.49,416,/content/praktik_coco/hasil_praktik/E2_scratch/weights/best.pt
+E3_tuning,imgsz=640,True,0.3777,0.2186,0.7687,0.3071,9.96,1.91,640,/content/praktik_coco/hasil_praktik/E3_tuning/weights/best.pt
